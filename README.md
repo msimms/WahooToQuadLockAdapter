@@ -3,3 +3,5 @@ This project exists to solve a problem that may be unique to myself. My phone is
 I printed this on an Elegoo SLA printer with ABS-like resin, though other reins and filaments (for those using FDM printers) should work also.
 
 This is my own work, developed in Blender (don't laugh at me) after taking measurements from my phone case and bike mount.
+
+If you found this useful, consider a tip!
